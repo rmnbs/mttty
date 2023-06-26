@@ -21,7 +21,7 @@
 //
 // hard coded maximum number of ports
 //
-#define MAXPORTS        4
+#define MAXPORTS        8
 
 //
 // terminal size
